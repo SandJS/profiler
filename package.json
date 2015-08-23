@@ -11,6 +11,6 @@
   "dependencies": {
     "cli-table": "^0.3.1",
     "lodash": "^3.10.1",
-    "sand-grain": "^1.0.1"
+    "sand-grain": "^1.1.1"
   }
 }
